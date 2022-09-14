@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guidl
-- 👀 I’m interested in Java, Python, Bash,
+- 👀 I’m interested in Java, Python, Bash... and I like codingame
 - 🌱 I’ll try learn python soon
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me TBD
