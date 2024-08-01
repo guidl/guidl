@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @guidl
-- 👀 I’m interested in Java, Python, Bash... and I like codingame
+- 👀 I’m interested in Java, Python, DevOps Tools and I like codingame
 - 🌱 I’ll try learn python soon
-- 💞️ I’m looking to collaborate on TBD
-- 📫 How to reach me TBD
+<!---- 💞️ I’m looking to collaborate on TBD
+- 📫 How to reach me TBD --->
 
 <!---
 guidl/guidl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
